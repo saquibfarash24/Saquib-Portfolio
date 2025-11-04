@@ -140,7 +140,7 @@ function Navbar() {
                   alt="Saquib"
                   className="w-28 h-28 rounded-full border-4 border-primary object-cover"
                 />
-                <h3 className="mt-3 text-xl font-bold">Saquib Sayyed</h3>
+                <h3 className="mt-3 text-xl font-bold">Saquib Farash</h3>
                 <p className="text-sm text-base-content/70">
                   Backend Developer • PERN Stack
                 </p>
