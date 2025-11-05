@@ -140,11 +140,11 @@ export default function Footer() {
         <div className="divider my-8" />
 
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-base-content/70">
-          <div>© {new Date().getFullYear()} Saquib Sajid Farash. All rights reserved.</div>
+          <div>© {new Date().getFullYear()} Saquib Sajid Farash. All Rights Reserved.</div>
           <div className="flex items-center gap-4">
-            <a href="/privacy" className="link link-hover">Privacy</a>
+            {/* <a href="/privacy" className="link link-hover">Privacy</a>
             <a href="/terms" className="link link-hover">Terms</a>
-            <span className="text-xs text-base-content/50">Made with ❤️</span>
+            <span className="text-xs text-base-content/50">Made with ❤️</span> */}
           </div>
         </div>
       </div>

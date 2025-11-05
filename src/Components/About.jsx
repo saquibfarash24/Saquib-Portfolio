@@ -129,7 +129,9 @@ export default function About() {
                 <div>
                   <div className="font-medium">Email</div>
                   <div className="text-xs text-base-content/60">
-                    saquibfarash0346@gmail.com
+                <a href="mailto:saquibfarash0346@gmail.com">
+                  saquibfarash0346@gmail.com
+                  </a>
                   </div>
                 </div>
               </div>
